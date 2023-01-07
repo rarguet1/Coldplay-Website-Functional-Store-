@@ -1,0 +1,42 @@
+{
+    "music": [
+        {
+            "id": 1,
+            "name": "X&Y Album",
+            "price": 1299,
+            "imgName": "X&Y.png"
+        },
+        {
+            "id": 2,
+            "name": "Viva la Vida Album",
+            "price": 1499,
+            "imgName": "Viva_la_vida.png"
+        },
+        {
+            "id": 3,
+            "name": "Ghost Stories Album",
+            "price": 1699,
+            "imgName": "Ghost_Stories.png"
+        },
+        {
+            "id": 4,
+            "name": "Parachutes Album",
+            "price": 1199,
+            "imgName": "Parachutes.png"
+        }
+    ],
+    "merch": [
+        {
+            "id": 5,
+            "name": "Black Hoodie",
+            "price": 3099,
+            "imgName": "Black_hoodie.png"
+        },
+        {
+            "id": 6,
+            "name": "Blue t-shirt",
+            "price": 2599,
+            "imgName": "Blue_shirt.png"
+        }
+    ]
+}
